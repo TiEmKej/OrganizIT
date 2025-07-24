@@ -4,10 +4,10 @@ using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using System.Linq;
 using Avalonia.Markup.Xaml;
-using OrganizIT.ViewModels;
-using OrganizIT.Views;
+using OrganizeIT.ViewModels;
+using OrganizeIT.Views;
 
-namespace OrganizIT;
+namespace OrganizeIT;
 
 public partial class App : Application
 {

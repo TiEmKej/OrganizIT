@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace OrganizIT;
+namespace OrganizeIT;
 
 sealed class Program
 {

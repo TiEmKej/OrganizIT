@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizIT", "OrganizIT\OrganizIT.csproj", "{20A4F1FA-8B45-49A0-9076-6759949C862E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizeIT", "OrganizeIT\OrganizeIT.csproj", "{20A4F1FA-8B45-49A0-9076-6759949C862E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

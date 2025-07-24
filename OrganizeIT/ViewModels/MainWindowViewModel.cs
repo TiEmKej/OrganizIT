@@ -1,4 +1,4 @@
-﻿namespace OrganizIT.ViewModels;
+﻿namespace OrganizeIT.ViewModels;
 
 public partial class MainWindowViewModel : ViewModelBase
 {
